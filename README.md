@@ -1,60 +1,53 @@
-<h1 align="center">Fala, eu sou o Leonardo 👊</h1>
+<h1 align="center">👋 Fala, eu sou o Leonardo!</h1>
 
 <p align="center">
-  <b>Analista de Redes | Dev Web | Infra, VPN e Segurança</b><br>
-  ⚔️ Cristão convicto • Grêmista raiz • Técnico nato • Coração discipulador
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardomarx&style=flat-square" alt="Visualizações de perfil"/>
+  🔧 Especialista de Redes | Dev Web | MTCRE & MTCTCE <br>
+  🙏 Cristão • Grêmista • Técnico por vocação <br>
+  <a href="mailto:nfl.leonardo@gmail.com">📩 Email</a> •
+  <a href="https://www.linkedin.com/in/leonardomarx" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🙋‍♂️ Quem sou eu?
+## 🧠 Sobre mim
 
-Sou o cara que resolve problema. Gosto de deixar tudo funcionando **melhor do que estava antes** — seja em uma rede, uma aplicação ou no coração de alguém.
-
-- 🔌 Infraestrutura é meu habitat: pfSense, MikroTik, VPNs e firewalls
-- 💻 Desenvolvimento web com **React**, **Tailwind**, **Node.js**
-- 🔐 Foco em **segurança**, automação, logs e orquestração
-- 🛠️ Faço desde shell script até dashboard com gráfico em tempo real
-- 🙏 Servo de Cristo, membro da **Igreja Cristã Maranata**
-- 💍 Noivo de uma mulher incrivel que me puxa pra mais perto de Deus
+Sou Analista de Redes apaixonado por resolver problemas complexos com soluções simples e eficientes.  
+Trabalho com infra, automação, desenvolvimento web e segurança — sempre com excelência e propósito.  
+Cristão convicto, servo na Igreja Cristã Maranata, e firme na missão de impactar em tudo que faço.
 
 ---
 
-## 🧠 Tecnologias que uso no dia a dia
+## 🧰 Tecnologias que domino
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=freebsd&logoColor=white)
-![Mikrotik](https://img.shields.io/badge/MikroTik-A60000?style=flat&logo=mikrotik&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=freebsd)
+![MikroTik](https://img.shields.io/badge/MikroTik-C00?style=flat)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
+![Shell Script](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
 ---
 
-## 📈 Projetos e Experimentos
+## 📌 Projetos em destaque
 
-| Projeto | Descrição |
-|--------|-----------|
-| 🔐 **IPSec Monitor** | Dashboard em React + Chart.js pra acompanhar túneis IPSec em tempo real. Visual, rápido e funcional. |
-| 📊 **OpenVPN Log Parser** | Shell script que extrai IPs internos, IP público e horário de login de usuários no pfSense. |
-| 🟢 **WireGuard Tracker** | Diagnóstico de handshakes falhando no MikroTik. Debug nervoso, solução clara. |
-| 🟢 **Chapecoense Sócio** | Portal de planos de sócio torcedor com React e animações suaves em Tailwind. Projeto que une tech + futebol. |
-| 🧾 **Portal SSL Automático** | HAProxy + ACME em pfSense com validação automática de certificados, sem travar a webGUI. |
+| 💡 Projeto | ⚙️ Descrição |
+|-----------|-------------|
+| **IPSec Monitor Dashboard** | Painel visual em React + Chart.js para monitorar túneis IPSec em tempo real. |
+| **OpenVPN Log Parser** | Script shell que extrai IPs internos, IPs públicos e horário de login de usuários no pfSense. |
+| **WireGuard Debug Tools** | Diagnóstico de handshakes e conectividade em Mikrotik. Foco em estabilidade de túnel. |
+| **Chapecoense Sócio Portal** | Portal de planos de sócio com design moderno e foco em performance. React + Tailwind. |
 
 ---
 
-## 📫 Me encontra aqui
+## 📈 GitHub Stats
 
-- ✉️ **nfl.leonardo@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardomarx/)
-- ⚽ Grêmio é minha bandeira. Mas Jesus é meu Senhor.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marx1302&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marx1302&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
@@ -66,11 +59,4 @@ Sou o cara que resolve problema. Gosto de deixar tudo funcionando **melhor do qu
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardomarx&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomarx&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-<p align="center"><i>"Excelência em tudo. Simples no jeito. Profundo na fé."</i></p>
+<p align="center"><i>Excelência no que faço. Fé no que creio. Propósito em tudo.</i></p>
