@@ -50,7 +50,7 @@ Redesign completo do portal de sócios com React e Tailwind, focado em performan
 
 ### 📫 Como me encontrar
 
-- ✉️ leonardo.seuemail@gmail.com  
+- ✉️ nfl.leonardo@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seuperfil)  
 - 🧠 Sempre disposto a trocar ideia sobre tech, fé ou futebol (Grêmio 💙)
 
