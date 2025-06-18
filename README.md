@@ -60,3 +60,68 @@ Cristão convicto, servo na Igreja Cristã Maranata, e firme na missão de impac
 ---
 
 <p align="center"><i>Excelência no que faço. Fé no que creio. Propósito em tudo.</i></p>
+
+
+<!-- Banner animado -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+</div>
+
+<h1 align="center">Salve! Eu sou o Leonardo 👨‍💻</h1>
+
+<p align="center">
+  <b>Especialista de Redes | Dev Web | Cristão com propósito</b><br>
+  🔧 MTCRE | MTCTCE • 🧠 Infra • 🛡️ Segurança • ⚙️ Automação
+</p>
+
+<p align="center">
+  <a href="mailto:nfl.leonardo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leonardomarx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Marx1302" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Marx1302/Profile/raw/main/Profile.pdf" target="_blank"><img src="https://img.shields.io/badge/Currículo-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023" /></a>
+</p>
+
+---
+
+## ✨ Sobre mim
+
+Sou um Analista de Redes que ama tecnologia **com propósito**.  
+Trabalho com infra, dev e segurança como ministério e vocação.
+
+- 🔐 Firewalls, VPNs, pfSense, Mikrotik
+- 🌐 Desenvolvimento Web com React + Tailwind
+- 🧠 Scripts e automações em Bash/Python
+- 🙏 Servo de Cristo | Igreja Cristã Maranata
+- 💍 Noivo, planejando o futuro com fé e estrutura
+
+---
+
+## ⚙️ Stacks e Ferramentas
+
+| Infraestrutura | Desenvolvimento | Extras |
+|--|--|--|
+| pfSense, MikroTik, WireGuard, OpenVPN | React, Node.js, Tailwind, HTML/CSS | Git, PostgreSQL, Shell Script |
+| Monitoramento, VPNs, Segurança | API REST, Axios, JSON | Linux, VMware, Proxmox |
+
+---
+
+## 📌 Destaques de Projetos
+
+- 🔒 **IPSec Monitor** – Painel com status de túneis em tempo real usando Chart.js  
+- 📡 **WireGuard Tools** – Debug de handshake + ferramentas de análise de túnel  
+- 📜 **Log Parser VPN** – Shell script pra extrair IP, data e hora de login OpenVPN  
+- 💚 **Chapecoense Sócio Portal** – Frontend moderno com React + TailwindCSS  
+
+---
+
+## 🔥 GIF de boas-vindas no terminal
+
+<echo "Bem-vindo ao perfil do Leonardo!"
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+
+## ✝️ Versículo que guia minha jornada
+> “Mas levanta-te e põe-te sobre os teus pés;
+> porque por isto te apareci, para te pôr por ministro e testemunha…”
+> — Atos 26:16
+
+<p align="center"><b>Excelência no que faço. Fé no que creio. Propósito em tudo. 🙌</b></p> ```
