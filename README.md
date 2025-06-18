@@ -52,7 +52,7 @@ Sou o cara que resolve problema. Gosto de deixar tudo funcionando **melhor do qu
 
 ## 📫 Me encontra aqui
 
-- ✉️ **leonardo.seuemail@gmail.com**
+- ✉️ **nfl.leonardo@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonardomarx/)
 - ⚽ Grêmio é minha bandeira. Mas Jesus é meu Senhor.
 
