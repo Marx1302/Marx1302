@@ -1,115 +1,87 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1156380/3a2c04b76d125fdb275bd26ed381c8c73c220686.gif" width="400"/>
 </div>
 
-# 👋 Olá, eu sou Leonardo Marx
+<h1 align="center">Leonardo Marx | AEBP | The Leo</h1>
 
 <p align="center">
-  <strong>Resolvendo problemas complexos com soluções simples e eficientes.</strong>
+  <strong>Infraestrutura, Código e Propósito.</strong><br>
+  Analista de Redes • Desenvolvedor Web • Crente, técnico e grêmista.
 </p>
 
 <p align="center">
-  Desenvolvedor e Analista de Redes com foco em automação, infraestrutura e segurança.
-  <br>
-  Certificado MikroTik <strong>MTCRE</strong> & <strong>MTCTCE</strong>.
-</p>
-
-<p align="center">
-  <a href="mailto:nfl.leonardo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leonardomarx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nfl.leonardo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leonardomarx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/marx1302/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://github.com/Marx1302"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### <p align="center">👨‍💻 Sobre Mim</p>
+### 🧠 Sobre Mim
 
-> Sou movido pelo desafio de construir e proteger. Seja criando uma aplicação web performática ou blindando uma infraestrutura de rede, minha missão é a mesma: aplicar tecnologia com **excelência e propósito**. Como cristão, busco impactar positivamente em cada projeto, servindo com dedicação na Igreja Cristã Maranata e unindo fé e técnica para entregar o meu melhor.
+Sou movido por um chamado: usar tecnologia como ferramenta de transformação.  
+Faço acontecer com **pfSense, Mikrotik, React, Tailwind, shell script** e tudo que exige **cabeça fria e mão firme**.
 
----
-
-### <p align="center">🛠️ Meu Arsenal Tecnológico</p>
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <strong>Redes & Infra</strong><br>
-      <img src="https://img.shields.io/badge/MikroTik-C00?style=flat-square&logo=mikrotik&logoColor=white" height="25">
-      <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" height="25">
-      <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" height="25">
-      <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" height="25">
-    </td>
-    <td align="center">
-      <strong>Desenvolvimento Web</strong><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="25">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25">
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" height="25">
-    </td>
-    <td align="center">
-      <strong>Linguagens & Dados</strong><br>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffde57" height="25">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="25">
-    </td>
-  </tr>
-</table>
+> “Não é só sobre saber configurar, mas sobre saber por quê e pra quem.”
 
 ---
 
-### <p align="center">🚀 Projetos em Destaque</p>
+### ⚙️ Stack Técnica
+
+| Redes & Infra | Dev Web | Scripts & Dados |
+|---------------|---------|-----------------|
+| pfSense, Mikrotik, OpenVPN, WireGuard | React, Node.js, Tailwind, Vite | Bash, Python, PostgreSQL, Regex |
+
+---
+
+### 🎯 Projetos
 
 <details>
-  <summary><strong>IPSec Monitor Dashboard</strong></summary>
-  <p>
-    Painel visual para monitorar túneis IPSec em tempo real, facilitando a identificação de instabilidades.
-    <br>
-    <strong>Tecnologias:</strong> React, Chart.js, API REST.
-  </p>
+  <summary>🛡️ <strong>IPSec Monitor Dashboard</strong></summary>
+  <p>Dashboard real-time com status de túneis IPSec — bonito, leve, funcional.</p>
+  <strong>Stack:</strong> React • Chart.js • REST
 </details>
 
 <details>
-  <summary><strong>OpenVPN Log Parser</strong></summary>
-  <p>
-    Script em Shell que automatiza a análise de logs do OpenVPN no pfSense, extraindo informações cruciais de conexão de usuários para auditoria.
-    <br>
-    <strong>Tecnologias:</strong> Shell Script (Bash), Regex.
-  </p>
+  <summary>📜 <strong>OpenVPN Log Parser</strong></summary>
+  <p>Script que extrai IP interno, externo e login de cada user no pfSense via shell.</p>
+  <strong>Stack:</strong> Bash • Regex
 </details>
 
 <details>
-  <summary><strong>WireGuard Debug Tools</strong></summary>
-  <p>
-    Conjunto de scripts para diagnóstico avançado de handshakes e conectividade em túneis WireGuard no MikroTik.
-    <br>
-    <strong>Tecnologias:</strong> RouterOS Scripting, Python.
-  </p>
+  <summary>🌐 <strong>WireGuard Debug Tools</strong></summary>
+  <p>Ferramentas para analisar problemas de handshake, perda de pacotes e estabilidade.</p>
+  <strong>Stack:</strong> RouterOS Script • Python
 </details>
 
 <details>
-  <summary><strong>Chapecoense Sócio Portal</strong></summary>
-  <p>
-    Estudo de caso para um portal de sócios com design moderno e foco em performance e experiência de usuário.
-    <br>
-    <strong>Tecnologias:</strong> React, TailwindCSS, Next.js.
-  </p>
+  <summary>💚 <strong>Chapecoense Sócio Portal</strong></summary>
+  <p>Frontend completo e performático para portal de sócio torcedor da Chape.</p>
+  <strong>Stack:</strong> React • TailwindCSS • Vite
 </details>
 
 ---
 
-### <p align="center">📊 Minhas Estatísticas no GitHub</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marx1302&show_icons=true&theme=radical&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marx1302&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
-### <p align="center">✝️ O Versículo que me Guia</p>
+### ✝️ Palavra que me guia
 
-> “Mas levanta-te e põe-te sobre os teus pés, porque por isto te apareci: para te pôr por ministro e testemunha tanto das coisas que tens visto como daquelas pelas quais te aparecerei ainda.”
-> <br>— <strong>Atos 26:16</strong>
+> _“Mas levanta-te e põe-te sobre os teus pés, porque por isto te apareci:  
+> para te pôr por ministro e testemunha...”_  
+> — Atos 26:16
 
-<hr>
+---
 
 <p align="center">
-  <i>Excelência no que faço. Fé no que creio. Propósito em tudo.</i>
+  <i>Estilo. Técnica. Chamado.</i><br>
+  <strong>Leonardo Marx • 2025</strong>
 </p>
+
+
