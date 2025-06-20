@@ -80,16 +80,7 @@ Minha meta? Subir de nível. Técnico, espiritual e pessoal. E fazer isso com fi
 
 ---
 
-### ✝️ Palavra que me guia
-
-> _“Mas levanta-te e põe-te sobre os teus pés, porque por isto te apareci:  
-> para te pôr por ministro e testemunha...”_  
-> — Atos 26:16
-
----
-
 <p align="center">
-  <i>Estilo. Técnica. Chamado.</i><br>
   <strong>Leonardo A. Marx • 2025</strong>
 </p>
 
