@@ -22,17 +22,13 @@
 
 Não sou o cara que só configura e pronto. Gosto de entender o porquê das coisas, resolver na raiz e deixar tudo rodando redondo. Trabalho com rede e segurança aproveitando skills para ter dashboards webs e automações úteis.
 
-Hoje atuo como Analista de Redes e minhas frentes são bem definidas:
+Hoje atuo como **Analista de Redes** e minhas frentes são bem definidas:
 
-🔒 Infraestrutura com pfSense, MikroTik, OpenVPN e WireGuard
-
-⚙️ Scripts que automatizam e tiram dor de cabeça da operação
-
-🌐 Dashboard de visualização simples para o usuário, tudo no detalhe
-
-🧠 Diagnóstico de logs, parsing de conexão, visibilidade de rede real-time
-
-🧱 Experiência com VMware, NGINX, HAProxy e ambientes virtualizados em produção
+- 🔒 **Infraestrutura** com pfSense, MikroTik, OpenVPN e WireGuard
+- ⚙️ **Scripts** que automatizam e tiram dor de cabeça da operação
+- 📊 **Dashboards** de visualização simples para o usuário, tudo no detalhe
+- 🧠 **Diagnóstico** de logs, parsing de conexão, visibilidade de rede real-time
+- 🧱 **Experiência** com VMware, NGINX, HAProxy e ambientes virtualizados em produção
 
 
 Minha meta? Subir de nível. Técnico e pessoal. E fazer isso com direção.
