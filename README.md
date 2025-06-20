@@ -2,11 +2,11 @@
   <img src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/1156380/3a2c04b76d125fdb275bd26ed381c8c73c220686.gif" width="400"/>
 </div>
 
-<h1 align="center">Leonardo Marx | AEBP | The Leo</h1>
+<h1 align="center">Leonardo Adriano Marx</h1>
 
 <p align="center">
-  <strong>Infraestrutura, Código e Propósito.</strong><br>
-  Analista de Redes • Desenvolvedor Web • Crente, técnico e grêmista.
+  <strong>Infraestrutura e Código </strong><br>
+  Analista de Redes com um pouco de desenvolvimento Web
 </p>
 
 <p align="center">
@@ -20,10 +20,21 @@
 
 ### 🧠 Sobre Mim
 
-Sou movido por um chamado: usar tecnologia como ferramenta de transformação.  
-Faço acontecer com **pfSense, Mikrotik, React, Tailwind, shell script** e tudo que exige **cabeça fria e mão firme**.
+Não sou o cara que só configura e pronto. Gosto de entender o porquê das coisas, resolver na raiz e deixar tudo rodando redondo. Trabalho com rede e segurança aproveitando skills para ter dashboards webs e automações úteis.
 
-> “Não é só sobre saber configurar, mas sobre saber por quê e pra quem.”
+Hoje atuo como Analista de Redes e minhas frentes são bem definidas:
+
+🔒 Infraestrutura com pfSense, MikroTik, OpenVPN e WireGuard
+
+⚙️ Scripts que automatizam e tiram dor de cabeça da operação
+
+🌐 Dashboard de visualização simples para o usuário, tudo no detalhe
+
+🧠 Diagnóstico de logs, parsing de conexão, visibilidade de rede real-time
+
+🧱 Experiência com VMware, NGINX, HAProxy e ambientes virtualizados em produção
+
+Minha meta? Subir de nível. Técnico, espiritual e pessoal. E fazer isso com firmeza e com direção.
 
 ---
 
@@ -79,7 +90,7 @@ Faço acontecer com **pfSense, Mikrotik, React, Tailwind, shell script** e tudo 
 
 <p align="center">
   <i>Estilo. Técnica. Chamado.</i><br>
-  <strong>Leonardo Marx • 2025</strong>
+  <strong>Leonardo A. Marx • 2025</strong>
 </p>
 
 
