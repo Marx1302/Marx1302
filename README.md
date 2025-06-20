@@ -20,7 +20,7 @@
 
 ### 🧠 Sobre Mim
 
-Não sou o cara que só configura e pronto. Gosto de entender o porquê das coisas, resolver na raiz e deixar tudo rodando redondo. Trabalho com rede e segurança aproveitando skills para ter dashboards webs e automações úteis.
+Não sou o cara que só configura e pronto. Gosto de entender o porquê das coisas, resolver e deixar tudo rodando redondo. Trabalho com rede e segurança aproveitando skills para ter dashboards webs que realmente ajudam.
 
 Hoje atuo como **Analista de Redes** e minhas frentes são bem definidas:
 
