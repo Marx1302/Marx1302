@@ -109,8 +109,6 @@ Ferramentas de análise para handshake, perda de pacotes e estabilidade de túne
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marx1302&show_icons=true&theme=radical&rank_icon=github" height="170" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Marx1302&theme=radical" height="170" alt="GitHub streak"/>
