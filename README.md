@@ -116,5 +116,5 @@ Ferramentas de análise para handshake, perda de pacotes e estabilidade de túne
 ---
 
 <div align="center">
-  <strong>Leonardo A. Marx • 2025</strong>
+  <strong>Leonardo A. Marx • 2026</strong>
 </div>
